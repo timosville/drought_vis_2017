@@ -1,0 +1,12 @@
+{
+  "name": "drought_vis_2017",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/timosville/drought_vis_2017.git",
+  "author": "Timothy Koech",
+  "license": "MIT",
+  "devDependencies": {
+    "geojson-minifier": "^0.1.1",
+    "minify-geojson": "^1.4.1"
+  }
+}
